@@ -1,0 +1,14 @@
+{
+    "version": "1.13.7",
+    "name": "com.appodeal.plugin",
+    "cordova_name": "Appodeal Cordova Plugin (Android)",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
